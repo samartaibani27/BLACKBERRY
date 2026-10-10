@@ -9,5 +9,5 @@ export const environment = {
         appId: "1:945380725956:web:98f3d97dea0f5550d86591"
     },
     // Replace with your live Render backend URL after deploying backend to Render
-    apiUrl: 'https://YOUR-RENDER-BACKEND-NAME.onrender.com/api'
+    apiUrl: 'https://blackberry-ruwx.onrender.com'
 };
