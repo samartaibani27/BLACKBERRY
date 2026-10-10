@@ -4,7 +4,7 @@ An online pet shop platform where users can explore pet products, register or lo
 
 ## 🌐 Live Demo
 
-- **Frontend:** https://blackberry-1zh5nb2df-sam-5135.vercel.app
+- **Frontend:** https://blackberry-rho.vercel.app
 
 ## ✨ Features
 
