@@ -27,7 +27,7 @@ exports.updateProfile = async (req, res) => {
 
         if (req.file) {
             // Handle Profile Image Upload
-            updates.profileImage = `http://localhost:5000/uploads/${req.file.filename}`;
+            updates.profileImage = `http://blackberry-ruwx.onrender.com/uploads/${req.file.filename}`;
         }
 
         const db = getFirestore();

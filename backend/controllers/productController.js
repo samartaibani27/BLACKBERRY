@@ -76,8 +76,7 @@ exports.createProduct = async (req, res) => {
         if (req.files && req.files.length > 0) {
             // Handle multiple files
             req.files.forEach(file => {
-                const url = `http://localhost:5000/uploads/${file.filename}`;
-                images.push(url);
+                const url = `https://blackberry-ruwx.onrender.com/uploads/${file.filename}`;                images.push(url);
             });
             imageUrl = images[0];
         }
